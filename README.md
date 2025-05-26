@@ -11,5 +11,6 @@ Power Query (Power BI) – Performed minor data transformations and shaping befo
 Power BI – Developed interactive dashboards and visualizations to present key business insights and performance metrics.
 ## Project Workflow 
 ### Data Collection 
-> Raw data was initially available in Excel format.
-> The Excel data was imported into a SQL Server database for structured processing.
+ Raw data was initially available in Excel format.
+ 
+ The Excel data was imported into a SQL Server database for structured processing.
