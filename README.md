@@ -9,3 +9,7 @@ SQL Server Database – Cleaned data was stored in a relational database for eas
 Power Query (Power BI) – Performed minor data transformations and shaping before visualization.
 
 Power BI – Developed interactive dashboards and visualizations to present key business insights and performance metrics.
+## Project Workflow 
+### Data Collection 
+> Raw data was initially available in Excel format.
+> The Excel data was imported into a SQL Server database for structured processing.
